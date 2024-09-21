@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|c:\\users\\usuario\\source\\repos\\boostlingotest\\boostlingotest\\repositories\\peoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|solutionrelative:boostlingotest\\repositories\\peoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|c:\\users\\usuario\\source\\repos\\boostlingotest\\boostlingotest\\database\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|solutionrelative:boostlingotest\\database\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|c:\\users\\usuario\\source\\repos\\boostlingotest\\boostlingotest\\database\\boostlingodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|solutionrelative:boostlingotest\\database\\boostlingodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|c:\\users\\usuario\\source\\repos\\boostlingotest\\boostlingotest\\boostlingotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|solutionrelative:boostlingotest\\boostlingotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|c:\\users\\usuario\\source\\repos\\boostlingotest\\boostlingotest\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|solutionrelative:boostlingotest\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|c:\\users\\usuario\\source\\repos\\boostlingotest\\boostlingotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CFB79B-51C8-49DD-A403-0774A159991A}|BoostlingoTest\\BoostlingoTest.csproj|solutionrelative:boostlingotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Repositories\\PeopleRepository.cs",
+              "RelativeDocumentMoniker": "BoostlingoTest\\Repositories\\PeopleRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Repositories\\PeopleRepository.cs",
+              "RelativeToolTip": "BoostlingoTest\\Repositories\\PeopleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:53:09.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Database\\People.cs",
+              "RelativeDocumentMoniker": "BoostlingoTest\\Database\\People.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Database\\People.cs",
+              "RelativeToolTip": "BoostlingoTest\\Database\\People.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:33:56.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoostlingoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Database\\BoostlingoDbContext.cs",
+              "RelativeDocumentMoniker": "BoostlingoTest\\Database\\BoostlingoDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Database\\BoostlingoDbContext.cs",
+              "RelativeToolTip": "BoostlingoTest\\Database\\BoostlingoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:33:43.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoostlingoTest",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\BoostlingoTest.csproj",
+              "RelativeDocumentMoniker": "BoostlingoTest\\BoostlingoTest.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\BoostlingoTest.csproj",
+              "RelativeToolTip": "BoostlingoTest\\BoostlingoTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:28:23.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "BoostlingoTest\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Model\\Person.cs",
+              "RelativeToolTip": "BoostlingoTest\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:01:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Program.cs",
+              "RelativeDocumentMoniker": "BoostlingoTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BoostlingoTest\\BoostlingoTest\\Program.cs",
+              "RelativeToolTip": "BoostlingoTest\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:49:43.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
